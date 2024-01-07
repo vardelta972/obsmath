@@ -1,0 +1,1 @@
+States if $f:X \to Y$ is an invertible regular function at $x_0$ then $f^{-1}$ is diff at $y=x_0$ with $$[f^{-1}]' (y) = \frac{1}{f'(f^{-1}(y))}.$$ 

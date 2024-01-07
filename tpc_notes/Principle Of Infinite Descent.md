@@ -1,0 +1,1 @@
+States that there is no sequence of naturals in infinite descent i.e. infinitely decreasing(strictly) or equivalently all str secreasing seq in N eventually terminate. Is equivalent to [[Axiom Of Induction]]. The proof is given in session [[15 DEC testing#P1 PT Axiom Of Induction is eq to Principle Of Infinite Descent .]]

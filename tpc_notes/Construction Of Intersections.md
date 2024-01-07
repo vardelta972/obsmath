@@ -1,0 +1,1 @@
+Give a non-empty set X we can define $$\bigcap X := \lbrace x \in c : x\in a \forall a \in X \rbrace.$$ Where c is chosen from X.Note that its well defined as it does exist by [[ZFC Axioms#Specification]] and [[ZFC Axioms#Extensionality]].

@@ -1,0 +1,1 @@
+Classes are expressions of the form $$\lbrace x : P(x) \rbrace$$ where P is a predicate. Whenever a set A exists so that $x \in A \iff P(x)$ we say the class is a set and denote A by the same symbol(this is unambiguous as A is unique by [[ZFC Axioms#Extensionality]]).  

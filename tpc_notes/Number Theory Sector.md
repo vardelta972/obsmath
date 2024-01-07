@@ -1,0 +1,8 @@
+[[Elementary Number Theory - Underwood Dudley (2008).pdf]]
+[[Rosen - Elementary number theory and its applications.pdf]]
+[[Library Mobile/NT/mathematical circles.pdf|mathematical circles]]
+[[Library Mobile/NT/Zeitz P. - The art and craft of problem solving-Wiley (2017).pdf|Zeitz P. - The art and craft of problem solving-Wiley (2017)]]
+[[proofs_in_the_book.pdf]]
+[[Number theory.pdf]]
+[[ivan_niven_herbert_s-_zuckerman_hugh_l-_montgoman-introduction-to-the-theory-of-numbers.pdf]]
+[[Number Theory Structures, Examples, and Problems (Dorin Andrica, Titu Andreescu (auth.)) (z-lib.org).pdf]]

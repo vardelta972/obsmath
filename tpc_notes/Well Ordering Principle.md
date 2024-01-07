@@ -1,0 +1,1 @@
+States that every non emp subset of N has a minimal element. Is provable by [[Axiom Of Completeness]]. Is equivallent to [[Principle Of Infinite Descent]](see proof: [[15 DEC testing#P2 PT Principle Of Infinite Descent eq to Well Ordering Principle .]]) and [[Axiom Of Induction]].

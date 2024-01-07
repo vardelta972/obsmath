@@ -1,0 +1,1 @@
+X inductive iff $\emptyset \in X \land \forall n (n \in X \implies s(n) \in X).$ Where s(n):=nU{n}. 

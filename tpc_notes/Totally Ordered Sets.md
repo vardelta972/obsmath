@@ -1,0 +1,1 @@
+X is totally ordered iff its partially ordered and any two distinct ele are comparable. They satisfy the trichotomy property([[16 DEC TST#P5 Total order implies trichotomy]])

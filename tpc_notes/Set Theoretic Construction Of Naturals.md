@@ -1,0 +1,1 @@
+We define it as the smallest [[inductive set]]$$\mathbf{N := \omega} := \bigcap \lbrace X : X \ inductive \rbrace$$ but this definition is not rigorous as the [[Class]] of all inductive sets is not a set(why: ). Thus, we do things a bit differently:

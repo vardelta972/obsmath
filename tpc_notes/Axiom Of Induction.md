@@ -1,0 +1,1 @@
+Basically it ensures that the graph of N under the relation of successorship is connected.

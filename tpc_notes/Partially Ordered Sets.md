@@ -1,0 +1,1 @@
+A set with a partial order $\leq$ defined on it so that its reflexive , anti-symmetric , transitive.

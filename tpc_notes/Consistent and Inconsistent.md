@@ -1,0 +1,1 @@
+A is called inconsistent iff for some formula $\phi$ , $A \vdash \phi,\neg \phi.$ 

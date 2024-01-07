@@ -1,0 +1,1 @@
+We start with $[0,1]$ then remove the middle open third to ge $[0,1/3] \cup [2/3,1]$ and so on... Then define $$\mathcal{C}:= \bigcap C_j$$ where Cj is set obtained at jth stage. By [[Nested Intervals Property]] it has atleast one element. Infact it's uncountable [[16 DEC TST#P11 PT Cantor Set is uncountable]].
