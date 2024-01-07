@@ -1,5 +1,4 @@
 
-tst
 ### Propositions and predicates
 A proposition is something which can take only one of two values $\lbrace T,F \rbrace$. A predicate is something which eats several things and produces a proposition.
 
