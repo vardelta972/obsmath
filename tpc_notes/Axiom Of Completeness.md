@@ -3,7 +3,6 @@ states that every nonempty subset of R bounded above has a least upper bound. Ca
 $$\displaylines{\forall \emptyset \neq U \subseteq R : \exists upperbound(U): \exists lub(U) \\ \iff \forall \emptyset \neq L \subseteq R : \exists lowerbound(U): \exists glb(U)}$$
 
 Turns out these lub and glb's are unique wherever they exist (see proof: ) and are denoted $sup(U),inf(L)$ respectively. See [[Sup And Inf]]. Plays Important role in proof of [[MCT]] and [[IVT]]
-
 ### Equivalent Forms
 
 #### Cauchy Form
