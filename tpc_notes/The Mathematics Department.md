@@ -37,6 +37,3 @@ https://math.meta.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-qu
 
 ![[g-s.lnk]]
 ![[h-s.lnk]]
-
-gittoken:
-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
