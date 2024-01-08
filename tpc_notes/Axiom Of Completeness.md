@@ -8,10 +8,11 @@ Turns out these lub and glb's are unique wherever they exist (see proof: ) and a
 
 #### Cauchy Form
 It's equivalent to saying every cauchy sequence in R converges. #mpro #ipro #pro 
-->
+-> The usual progression in books.
+<- yet to be done
 
 ##### IVT
-It's equivalent to [[IVT]] in the case of reals.
+It's equivalent to [[IVT]] in the case of reals. 
 #pro Forward implication is in [[IVT#Proof In The Case Of Reals Using Axiom Of Completeness]].
 For the other direction: this uses many ideas such as [[Ancient Bisection Method]] possibly Best proof i have ever done myself.
 
