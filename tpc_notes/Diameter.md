@@ -4,4 +4,8 @@ $$
 this is for any metric space.
 
 ## In terms of sup and inf
-we 
+we have in reals that
+$$
+\sup_{x,y \in A} |x-y| = |\sup(A)-\inf(A)|
+$$
+#mpro #pro #ipro 
