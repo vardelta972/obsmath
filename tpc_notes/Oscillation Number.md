@@ -1,7 +1,7 @@
 Questions Are From Kaczor 
 We define
 $$
-\omega _{V} f := |\sup_{x \in V} f(x) - \inf _{x \in V} f(x).
+\omega _{V} f := |\sup_{x \in V} f(x) - \inf _{x \in V} f(x)|.
 $$
 whenever it exists ofcourse. This is defined for functions mapping [[Topological Spaces]] to R.
 
@@ -13,11 +13,11 @@ $$
 $$
 #pro <- for any $\varepsilon>0$ we choose a $\delta>0$ so that
 $$
-\sup_{\delta} f - \inf_{\delta} f <\varepsilon
+|\sup_{\delta} f - \inf_{\delta} f| <\varepsilon
 $$
 but 
 $$
-|f(x)-f(c)| \leq |\sup_{\delta} f - \inf_{\delta} f| = \sup_{\delta} f - \inf_{\delta} f <\varepsilon
+|f(x)-f(c)| \leq |\sup_{\delta} f - \inf_{\delta} f| <\varepsilon
 $$
 forall x in $V_{\delta}$.
 -> for any $\varepsilon>0$ we choose a $\delta>0$ so that
