@@ -6,6 +6,10 @@ Turns out these lub and glb's are unique wherever they exist (see proof: ) and a
 
 ### Equivalent Forms
 
+#### Cauchy Form
+It's equivalent to saying every cauchy sequence in R converges. #mpro #ipro #pro 
+->
+
 ##### IVT
 It's equivalent to [[IVT]] in the case of reals.
 #pro Forward implication is in [[IVT#Proof In The Case Of Reals Using Axiom Of Completeness]].
