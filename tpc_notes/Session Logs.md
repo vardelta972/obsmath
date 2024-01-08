@@ -1,4 +1,4 @@
-*Instructions: Give each question a suitable tag (mq,gq,eq), and topicwise if possible*
+*Notation: purple: easy, green: def/thm, blue: generalization/imp, red: postpon*
 
 [[Multivariable Calculus.pdf]][[Wendell Fleming Problems]]
 [[TTao Analysis 1.pdf]][[TT Analysis 1 Problems]]
