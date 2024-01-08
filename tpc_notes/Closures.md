@@ -10,4 +10,6 @@ we say $x \in \bar{A}$ iff every neighbourhood arounf x has a nonempty intersect
 5) Obviously 
 
 ## In Metric Spaces
-Here it turns out $x_{0}$ is in closure iff there is some seq in the set converging to $x_{0}$
+Here it turns out $x_{0}$ is in closure iff there is some seq in the set converging to $x_{0}$ #pro Very easy one direction use your natural balls and the axiom of choice, the other one is just the definition of convergence.
+
+Does it also hold in arbitrary topological spaces?
