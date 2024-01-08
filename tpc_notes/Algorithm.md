@@ -1,6 +1,5 @@
 ### Binary Search 
 You half the given stuffs into stuffs and look for the desired stuffs in those stuffs. Basically divide and conquer.
-
 [[Ancient Bisection Method]] is an example.
 
 #### Examples
