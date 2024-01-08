@@ -130,6 +130,7 @@ Advised : [[Calculus/Books/bartle.pdf|bartle]] [[Calculus/Books/unl.pdf|unl]] [[
 [[Lagrange Multipliers]]
 [[Calculus Of variations]]
 [[Big O Little o And Theta]]
+[[Diameter]]
 [[Oscillation Number]]
 [[Lipschitz Functions]]
 [[Drichlet Function]]
