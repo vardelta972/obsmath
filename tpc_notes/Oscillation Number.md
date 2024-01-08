@@ -1,7 +1,7 @@
 Questions Are From Kaczor 
 We define
 $$
-\omega _{V} f := \sup_{x \in V} f(x) - \inf _{x \in V} f(x).
+\omega _{V} f := |\sup_{x \in V} f(x) - \inf _{x \in V} f(x).
 $$
 whenever it exists ofcourse. This is defined for functions mapping [[Topological Spaces]] to R.
 
