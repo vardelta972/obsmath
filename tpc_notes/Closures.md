@@ -9,3 +9,5 @@ we say $x \in \bar{A}$ iff every neighbourhood arounf x has a nonempty intersect
 4) If some pont in A is not in closure then we have for some neighbourhood $U(x) \cap A = \phi$ but this means x is not in A.
 5) Obviously 
 
+## In Metric Spaces
+Here it turns out $x_{0}$ is in closure iff there is some seq in the set converging to $x_{0}$
