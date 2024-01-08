@@ -222,7 +222,6 @@ Advised: [](https://www.math.utoronto.ca/ivan/mat327/?resources)
 [[Topological Spaces]]
 [[Base]]
 [[Closures]]
-[[accumulation point]]
 [[Topology Generated]]
 [[Compact Set]]
 [[Connected Set]]
