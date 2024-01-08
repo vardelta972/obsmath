@@ -9,7 +9,7 @@ Turns out these lub and glb's are unique wherever they exist (see proof: ) and a
 #### Cauchy Form
 It's equivalent to saying every cauchy sequence in R converges. #mpro #ipro #pro 
 -> The usual progression in books.
-<- yet to be done
+<- yet to be done later.
 
 ##### IVT
 It's equivalent to [[IVT]] in the case of reals. 
