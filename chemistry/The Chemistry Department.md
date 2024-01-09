@@ -3,3 +3,4 @@
 ## Board Exam Section
 
 #### Chemical Kinetics
+[[rate of rxn]]
