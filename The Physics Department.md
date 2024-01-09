@@ -2,6 +2,7 @@
 
 ## Temporary Exam Section
 [[Electric Charge]]
+[[Current Electricity]]
 
 ## Afterthoughts 
 
