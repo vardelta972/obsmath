@@ -1,7 +1,7 @@
   
 “A complex system that works is invariably found to have evolved from a simple system that worked. A complex system designed from scratch never works and cannot be patched up to make it work. You have to start over, beginning with a working simple system. –John Gall
 **Do Not Push Copyrighted Materials to Git** See [[Git Controls]], use rolling branch for daily, main for weekly.
-# [[Session Logs]]
+# [[Session Logs]] **BackSeated For Boards**
 ---------------------------------------
 ## Afterthoughts
 *NOTE: Using Search Is Ideal.*
