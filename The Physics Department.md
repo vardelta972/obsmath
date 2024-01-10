@@ -3,6 +3,9 @@
 ## Temporary Exam Section
 [[Electric Charge]]
 [[Electric Field]]
+#### Moving Charges And Magnetism
+[[Magnetic Fields]]
+[[Bio Savart]]
 
 ## Afterthoughts 
 
