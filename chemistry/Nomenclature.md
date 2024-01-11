@@ -1,0 +1,13 @@
+![[Pasted image 20240111130328.png]]
+![[Pasted image 20240111130452.png]]
+![[Pasted image 20240111130517.png]]
+![[Pasted image 20240111130531.png]]
+![[Pasted image 20240111130541.png]]
+![[Pasted image 20240111130836.png]]
+## Saturated Hydrocarbons
+![[Pasted image 20240111131035.png]]
+![[Pasted image 20240111131141.png]]
+![[Pasted image 20240111131218.png]]
+![[Pasted image 20240111131348.png]]
+![[Pasted image 20240111131429.png]]
+1 hr mark

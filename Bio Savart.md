@@ -17,4 +17,12 @@ Derivation
  ![[Pasted image 20240110171324.png]]
  ![[Pasted image 20240110171546.png]]
  ![[Pasted image 20240110171631.png]]
- 45min at
+
+![[Pasted image 20240111114150.png]]
+ ![[Pasted image 20240111114738.jpg]]
+dont forget tesla
+![[Pasted image 20240111114926.png]]
+n for no of turns
+![[Pasted image 20240111115158.png]]
+dont forget to just mention n turns
+![[Pasted image 20240111115431.png]]

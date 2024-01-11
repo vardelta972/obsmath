@@ -10,3 +10,11 @@
 [[Integrated rate Eqn]]
 [[Pseudo First Order rxn]]
 [[Arrheinus Equation]]
+
+#### Base Organic Chemistry
+[[Carbon and Hybridization]]
+[[strength of bond and S character]]
+[[Representation Of Organic compounds]]
+[[Degree Of Carbon]]
+[[Functional Groups]]
+[[Nomenclature]]
