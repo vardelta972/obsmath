@@ -43,3 +43,47 @@ orientation matters, bonds constructed in rotation
 ![[Pasted image 20240112114853.png]]
 ![[Pasted image 20240112114937.png]]
 e cut
+![[Pasted image 20240112122042.png]]
+![[Pasted image 20240112122152.png]]
+![[Pasted image 20240112122313.png]]
+### Ketones
+![[Pasted image 20240112122357.png]]
+![[Pasted image 20240112122427.png]]
+![[Pasted image 20240112122459.png]]
+![[Pasted image 20240112122552.png]]
+### Aldehyde
+![[Pasted image 20240112122646.png]]
+![[Pasted image 20240112122846.png]]
+![[Pasted image 20240112122925.png]]
+![[Pasted image 20240112123103.png]]
+in cplx subs start from leaf
+![[Pasted image 20240112123130.png]]
+![[Pasted image 20240112123229.png]]
+when not all grp func possible in same chain
+
+### Carboxylic Acid
+![[Pasted image 20240112123859.png]]
+if not C in chain then carboxylic
+![[Pasted image 20240112123930.png]]
+identical treatment
+
+### Ester
+![[Pasted image 20240112124115.png]]
+
+### Aromatic Hydrocarbons
+![[Pasted image 20240112124308.png]]
+![[Pasted image 20240112124746.png]]
+![[Pasted image 20240112124825.png]]
+![[Pasted image 20240112125110.png]]
+## Polyfunctional group
+![[Pasted image 20240112125250.png]]
+make trick
+if not func grp then dis
+![[Pasted image 20240112125625.png]]
+![[Pasted image 20240112125711.png]]
+## Common nomen
+![[Pasted image 20240112125907.png]]
+![[Pasted image 20240112125945.png]]
+![[Pasted image 20240112130044.png]]
+![[Pasted image 20240112130106.png]]
+![[Pasted image 20240112130213.png]]
