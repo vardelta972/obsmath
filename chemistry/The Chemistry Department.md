@@ -20,3 +20,5 @@
 [[Nomenclature]]
 
 #### d and f block
+[[electronic config]]
+[[d block]]
