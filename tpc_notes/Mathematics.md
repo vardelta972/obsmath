@@ -40,6 +40,7 @@
 [[The Division Lemma]]
 [[Fundamental Theorem Of Arithmetic ]]
 [[Floor and Ceiling]]
+[[Exponent Of Prime]]
 [[Terminating Decimals]]
 [[Congruence]]
 [[Finite Sums]]
