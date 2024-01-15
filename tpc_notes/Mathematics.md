@@ -4,6 +4,10 @@
 
 **Activities are suspended till ~April so that Mathematics/Physics(JEE/BOARDS)/Chem(Board Level Only) can be done appropriately**
 
+## Temporary Board Stuff
+[[Volume And Area Stuffs Of A Cone]]
+[[increasing dec conventions]]
+
 [[Lecture Notes]]
 # [[Session Logs]] **SUSPENDED TILL ~APRIL** 
 ---------------------------------------
