@@ -8,6 +8,13 @@
 [[electric dipole]]
 [[flux]]
 [[gauss]]
+
+#### Electric Potential
+[[potential difference]]
+[[potential due to]]
+[[equipotential surfaces]]
+[[electric potential energy]]
+
 #### Moving Charges And Magnetism
 [[Magnetic Fields]]
 [[Bio Savart]]
