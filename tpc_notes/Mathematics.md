@@ -7,6 +7,7 @@
 ## Temporary Board Stuff
 [[Volume And Area Stuffs Of A Cone]]
 [[increasing dec conventions]]
+[[max min]]
 
 [[Lecture Notes]]
 # [[Session Logs]] **SUSPENDED TILL ~APRIL** 
