@@ -13,4 +13,14 @@ $$
 Basically for N large enough distance betwenn any teo members of the sequence is small.
 
 ## Completeness
-
+R is complete.
+#pro Cauchy Implies Comvergence ->
+If xn is cauchy then it's bounded implying the existence of a subsequence $x_{k_{n}}$ which converges to some limit L. Now forall $\varepsilon>0$ exists N such that
+$$
+\forall n,m \geq N (|a_{n}-a_{m}|<\varepsilon)
+$$
+and 
+$$
+\forall n \geq N (|a_{k_{n}}-L|<\varepsilon)
+$$
+thus we get forall $n \geq N$

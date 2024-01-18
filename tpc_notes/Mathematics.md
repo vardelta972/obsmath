@@ -8,7 +8,7 @@
 [[max min]]
 
 [[Lecture Notes]]
-# [[Session Logs]] 
+# [[Session Logs]] SUSPENDED TILL BOARDS
 ---------------------------------------
 ## Afterthoughts
 *NOTE: Using Search Is Ideal.*
