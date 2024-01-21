@@ -20,3 +20,10 @@ For inc in intensity, this graph raises, inc saturated current
 stopping pot - neg pot where e- stop not receive
 ![[Pasted image 20240121130333.png]]
 Kmax from energy of Vstop = KE of fastest e-
+
+mag of v0 inc as $\nu$ inc
+![[Pasted image 20240121134210.png]]
+![[Pasted image 20240121134432.png]]
+![[Pasted image 20240121134515.png]]
+![[Pasted image 20240121134633.png]]
+![[Pasted image 20240121134724.png]]

@@ -32,6 +32,12 @@
 
 #### Dual Nature
 [[Photoelectric Effect]]
+[[Einstein Photoelectric Effect]]
+[[Dual Nature Of radiation]]
+
+#### Nuclei
+
+
 
 ## Afterthoughts 
 
