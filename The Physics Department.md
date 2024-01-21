@@ -36,8 +36,14 @@
 [[Dual Nature Of radiation]]
 
 #### Nuclei
+[[Nucleus]]
+[[Neutron]]
+[[Nuclear Force]]
+[[Binding Energy]]
+[[Nuclear Reaction]]
 
-
+#### Atoms
+#### SemiConductors
 
 ## Afterthoughts 
 

@@ -1,0 +1,17 @@
+![[Pasted image 20240121163139.png]]
+![[Pasted image 20240121163251.png]]
+![[Pasted image 20240121163443.png]]
+![[Pasted image 20240121163555.png]]
+![[Pasted image 20240121163748.png]]
+har ek neucleon pr etna energy lgega torne ke liye
+![[Pasted image 20240121163957.png]]
+![[Pasted image 20240121164411.png]]
+![[Pasted image 20240121164530.png]]
+![[Pasted image 20240121164614.png]]
+![[Pasted image 20240121164757.png]]
+![[Pasted image 20240121164847.png]]
+BEN inc then energy release
+![[Pasted image 20240121165014.png]]
+![[Pasted image 20240121165102.png]]
+![[Pasted image 20240121165145.png]]
+![[Pasted image 20240121165209.png]]
