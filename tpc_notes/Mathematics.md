@@ -9,6 +9,7 @@
 
 [[Lecture Notes]]
 # [[Session Logs]] SUSPENDED TILL BOARDS
+[[The March Plan]]
 ---------------------------------------
 ## Afterthoughts
 *NOTE: Using Search Is Ideal.*

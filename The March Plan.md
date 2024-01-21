@@ -1,0 +1,4 @@
+- ReStart Preparations Of JEE/CMI/ISI
+- In JEE Push Ahead By 3 chapters
+- Keep Ahead By 3 Chapters For Consistent Performance At Allen
+- In Mathematics Push Hardest
