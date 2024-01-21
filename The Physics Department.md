@@ -24,6 +24,10 @@
 [[Magnetic Fields]]
 [[Bio Savart]]
 
+#### Ray Optics
+[[basic reflection]]
+[[refraction]]
+
 ## Afterthoughts 
 
 ### Classical Mechanics
