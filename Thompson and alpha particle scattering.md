@@ -1,0 +1,11 @@
+![[Pasted image 20240121173904.png]]
+![[Pasted image 20240121173935.png]]
+![[Pasted image 20240121174312.png]]
+lead absorbs excessive radiation from bismuth
+![[Pasted image 20240121174528.png]]
+![[Pasted image 20240121174736.png]]
+![[Pasted image 20240121174938.png]]
+![[Pasted image 20240121175213.png]]
+![[Pasted image 20240121175411.png]]
+![[Pasted image 20240121175558.png]]
+![[Pasted image 20240121175632.png]]

@@ -43,6 +43,9 @@
 [[Nuclear Reaction]]
 
 #### Atoms
+[[Thompson and alpha particle scattering]]
+[[Rutherford and Bohr]]
+[[Spectra]]
 #### SemiConductors
 
 ## Afterthoughts 
