@@ -27,6 +27,8 @@
 #### Ray Optics
 [[basic reflection]]
 [[refraction]]
+[[depth and total internal reflection]]
+[[lenses]]
 
 ## Afterthoughts 
 
