@@ -30,6 +30,9 @@
 [[depth and total internal reflection]]
 [[lenses]]
 
+#### Dual Nature
+[[Photoelectric Effect]]
+
 ## Afterthoughts 
 
 ### Classical Mechanics
