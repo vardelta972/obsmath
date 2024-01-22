@@ -1,6 +1,13 @@
 *Sometimes(infact majority of the time), chemistry's a bit annoying*
+**MUST MEMORIZE WHOLE PERIODIC TABLE**
 
 ## Board Exam Section
+#### Solutions
+[[Solutions]]
+[[mass percentage stuffs]]
+[[mole fraction and molarity]]
+[[solubility]]
+[[Henry Law]]
 
 #### Chemical Kinetics
 [[rate of rxn]]
@@ -22,3 +29,4 @@
 #### d and f block
 [[electronic config]]
 [[d block]]
+[[Atomic radius]]
